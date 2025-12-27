@@ -293,12 +293,10 @@ Live App: https://plantidentifier.preview.emergentagent.com/
 
 Emergent AI Project Page: https://emergentagent.com/
 
-Demo Video: [Insert link if you have one, e.g., YouTube demo video showcasing the app in action].
+Demo Video:
 
 GitHub Repository: 
 
+Code-Serever login Link: https://vscode-9c62763f-7fa1-4742-bf47-854307f18b5e.preview.emergentagent.com/
+
 Documentation: Refer to this README for full details; additional docs on Emergent AI's site.
-
-Code Availability Note
-
-Platform Nature: This project is built using Emergent AI's no-code platform, which generates the application through visual interfaces and proprietary tools. As a result, traditional source code (e.g., raw HTML/JS/Python files) is not available for public access or modification, as it's managed internally by the platform. The repository serves as a documentation hub, demo, and placeholder for related assets like screenshots or user guides. For customizations or access to underlying logic, contact Emergent AI support or use their platform to replicate/expand the project.
