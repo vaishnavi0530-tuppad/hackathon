@@ -261,14 +261,6 @@ Deployment: Frontend JS bundles (via Webpack) deploy to Firebase; Backend Python
 
 Best Practices: Modular code (e.g., separate concerns in JS modules); Error handling with try-catch in JS/Python; Version control with Git for collaborative language-specific changes.
 
-Screenshots:
-
-Upload Screen: [Insert image: screenshot of the upload interface, e.g., upload_button_screenshot.png]
-
-Results Display: [Insert image: screenshot showing identified plant with details, e.g., results_screenshot.png]
-
-Mobile View: [Insert image: responsive design on a phone, e.g., mobile_screenshot.png]
-
 Installation/Usage Instructions
 
 Access the App: No installation required. Simply visit the live app at https://plantidentifier.preview.emergentagent.com/ using any modern web browser.
@@ -293,9 +285,7 @@ Live App: https://plantidentifier.preview.emergentagent.com/
 
 Emergent AI Project Page: https://emergentagent.com/
 
-Demo Video:
-
-GitHub Repository: 
+Demo Video:https://drive.google.com/file/d/1GMAARd-gJ6CJvP7WYocEKv-B5cAaMIey/view?usp=drivesdk
 
 Code-Serever login Link: https://vscode-9c62763f-7fa1-4742-bf47-854307f18b5e.preview.emergentagent.com/
 
